@@ -22,9 +22,4 @@ An interactive Geographic Information System (GIS) web application with features
 - Leaflet (React-Leaflet)
 - Material-UI
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm installed
 
